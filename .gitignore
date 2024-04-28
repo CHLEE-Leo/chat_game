@@ -1,0 +1,12 @@
+# 파일 제외
+how2use.md
+test.py
+
+# 예외
+!open_spiel/python/games/chat_games/__init__.py
+!open_spiel/python/games/chat_games/chat_game.py
+!open_spiel/python/games/chat_games/chat_game_test.py
+
+# 폴더 제외
+open_spiel/
+

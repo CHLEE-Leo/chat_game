@@ -1,7 +1,3 @@
 # 파일 제외
 how2use.md
 test.py
-
-# 폴더 제외
-open_spiel/
-
